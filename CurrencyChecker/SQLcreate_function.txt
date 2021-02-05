@@ -1,0 +1,8 @@
+CREATE FUNCTION returnCurrency(cur_name CHAR,cur_date CHAR)
+RETURNS DECIMAL
+NOT DETERMINISTIC
+BEGIN
+DECLARE res DECIMAL;
+SELECT value into res FROM currency WHERE charcode=cur_name and date=cur_date;
+RETURN res;
+END$$ 

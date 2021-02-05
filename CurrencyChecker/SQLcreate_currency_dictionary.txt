@@ -1,0 +1,10 @@
+	CREATE TABLE `currency_dictionary` (
+ `id` int(11) NOT NULL AUTO_INCREMENT,
+ `name` varchar(255) NOT NULL,
+ `engname` int(255) NOT NULL,
+ `nominal` int(11) NOT NULL,
+ `parentcode` varchar(6) NOT NULL,
+ `iso_num_code` int(11) NOT NULL,
+ `iso_char_code` varchar(3) NOT NULL,
+ PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8

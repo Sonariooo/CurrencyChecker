@@ -1,0 +1,10 @@
+CREATE TABLE `currency` (
+ `id` int(11) NOT NULL AUTO_INCREMENT,
+ `numcode` int(3) NOT NULL,
+ `charcode` int(3) NOT NULL,
+ `nominal` int(11) NOT NULL,
+ `name` varchar(255) NOT NULL,
+ `value` decimal(10,4) NOT NULL,
+ `date` date NOT NULL,
+ PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8

@@ -1,0 +1,11 @@
+C:\Users\Daniil\source\repos\CurrencyChecker\CurrencyChecker\obj\Debug\netcoreapp2.2\CurrencyChecker.csprojAssemblyReference.cache
+C:\Users\Daniil\source\repos\CurrencyChecker\CurrencyChecker\obj\Debug\netcoreapp2.2\CurrencyChecker.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\CurrencyChecker\CurrencyChecker\obj\Debug\netcoreapp2.2\CurrencyChecker.AssemblyInfoInputs.cache
+C:\Users\Daniil\source\repos\CurrencyChecker\CurrencyChecker\obj\Debug\netcoreapp2.2\CurrencyChecker.AssemblyInfo.cs
+C:\Users\Daniil\source\repos\CurrencyChecker\CurrencyChecker\bin\Debug\netcoreapp2.2\CurrencyChecker.deps.json
+C:\Users\Daniil\source\repos\CurrencyChecker\CurrencyChecker\bin\Debug\netcoreapp2.2\CurrencyChecker.runtimeconfig.json
+C:\Users\Daniil\source\repos\CurrencyChecker\CurrencyChecker\bin\Debug\netcoreapp2.2\CurrencyChecker.runtimeconfig.dev.json
+C:\Users\Daniil\source\repos\CurrencyChecker\CurrencyChecker\bin\Debug\netcoreapp2.2\CurrencyChecker.dll
+C:\Users\Daniil\source\repos\CurrencyChecker\CurrencyChecker\bin\Debug\netcoreapp2.2\CurrencyChecker.pdb
+C:\Users\Daniil\source\repos\CurrencyChecker\CurrencyChecker\obj\Debug\netcoreapp2.2\CurrencyChecker.dll
+C:\Users\Daniil\source\repos\CurrencyChecker\CurrencyChecker\obj\Debug\netcoreapp2.2\CurrencyChecker.pdb
